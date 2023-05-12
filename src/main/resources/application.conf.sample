@@ -1,0 +1,9 @@
+twilio {
+    sms {
+        enabled = false
+        debug   = false
+        accountSID = ""
+        authToken = ""
+        fromNumber = ""
+    }
+}
